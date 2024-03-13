@@ -1,4 +1,4 @@
-#AEROCRASH COMPUTER GRAPHICS PROJECT
+#AEROCRASH COMPUTER GRAPHICS PROJECT<\br>
 A 2D graphics-based Aerocrash game  is a great start for a student who has starts to learn the subject computer graphics & visualization. The development of the game provides good large scope to learn computer graphics from scratch. We used large number of OpenGL utility toolkit to implement the algorithm. The program written also includes C++ language.
 </br>
 
